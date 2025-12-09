@@ -12,6 +12,7 @@
   "bin": {
     "mipyao-cli": "cli.js"
   },
+  "preferGlobal": true,
   "dependencies": {
     "commander": "^14.0.2",
     "execa": "^9.6.1",
